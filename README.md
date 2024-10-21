@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Summary](#summary)
+- [DEMO](#DEMO)
 - [Running Locally](#running-locally)
 - [Uploading Large Files](#uploading-large-files)
 - [Debugging Some Basic Errors](#debugging-some-basic-errors)
@@ -14,7 +14,7 @@
 - [General comments from the author](#general-comments-from-the-author)
 
 
-##DEMO
+## DEMO
 https://drive.google.com/file/d/1dEoQwssMMbEQnyHvLB0z5Q33XIGZElcY/view
 
 ## Running locally
